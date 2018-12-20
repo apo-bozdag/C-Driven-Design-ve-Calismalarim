@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\Events\bin\Debug\Events.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Events\bin\Debug\Events.exe
+C:\Users\Engin\source\repos\CSharpCourse\Events\bin\Debug\Events.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.exe
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.pdb
+E:\_calismalar\c#\CSharpCourse\Events\bin\Debug\Events.exe.config
+E:\_calismalar\c#\CSharpCourse\Events\bin\Debug\Events.exe
+E:\_calismalar\c#\CSharpCourse\Events\bin\Debug\Events.pdb
+E:\_calismalar\c#\CSharpCourse\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+E:\_calismalar\c#\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+E:\_calismalar\c#\CSharpCourse\Events\obj\Debug\Events.exe
+E:\_calismalar\c#\CSharpCourse\Events\obj\Debug\Events.pdb
